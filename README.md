@@ -1,2 +1,3 @@
 # My-Python-Scripts
-Python Scripts for Sys Admins
+Python Scripts for System Administrators.
+
